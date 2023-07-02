@@ -1,4 +1,5 @@
-EDSA_Movie 
+EDSA_Movie
+
 First of I tried a Content based filtering as there was a lot of data to support my idea.
 First I grouped the tag data together by the movieId to get all the tags together. Then I droped the 'userId', 'timestamp'
 from the tags data.
