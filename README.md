@@ -10,7 +10,7 @@ After that I merged it with the movie data that haaf been merged with th train d
 into another field. Then I droped the 'timestamp'
 Then I displayed all the rating to make have a look how the users are rating the movies.
 After trying to process the data, My laptop allways ran out of Memory and I had to find another solution. 
-After building a Server with 64GB Ram it finaly executed and after 50hours of processing it gave me a score of 1.1 on Kaggle.
+After building a Server with 64GB Ram it finaly executed and after 50hours of processing it gave me a score of 1.0 on Kaggle.
 
 After that I decided to use Colleborative filtering.
 In the training data there is more than enough data to use  Colleborative filtering.
